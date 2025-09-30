@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/FontesSabrina/Podcast-gerado-por-ia/blob/c681232f1b7dad6f6e5bf92b04f5b32e40166683/assets/Gemini_Generated_Image_65xtkv65xtkv65xt.png" width="300" />
+  <img src="https://github.com/FontesSabrina/Podcast-gerado-por-ia/blob/c681232f1b7dad6f6e5bf92b04f5b32e40166683/assets/Gemini_Generated_Image_65xtkv65xtkv65xt.png" width="600" />
 </p>
 
 <div align="center">
